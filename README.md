@@ -13,13 +13,14 @@ This project focuses on modeling, simulation, and control of a rotary-wing unman
 
 ## 🚀 How to Run
 
-1. Open `Simulink_Model.slx` in MATLAB Simulink.  
-2. Run the simulation to observe the UAV dynamics.  
-3. (Optional) Connect to FlightGear for real-time visualization.
+1. Open `Simulink_Model.slx` in MATLAB Simulink.
+2.  Run `dronevalues.m` in MATLAB
+3. Run the simulation to observe the UAV dynamics.  
+4. (Optional) Connect to FlightGear for real-time visualization.
 
 ## 📎 Requirements
 
-- MATLAB R202x  
+- MATLAB R2023a  
 - Simulink  
 - FlightGear (optional)
 
